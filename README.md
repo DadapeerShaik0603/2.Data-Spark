@@ -12,7 +12,7 @@ Global Electronics seeks to leverage data insights to better understand its busi
 
 #### **2. Approach**  
 - **Technologies Used**:  
-  - **Python**: For data cleaning, preprocessing, and EDA using Pandas, Matplotlib, and Plotly Express .  
+  - **Python**: For data cleaning, preprocessing, and EDA using Pandas, Matplotlib, Seaborn and Plotly Express .  
   - **SQL**: For structured data storage and querying.  
   - **Power BI**: For dynamic, interactive dashboards and visual insights.  
 
